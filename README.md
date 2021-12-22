@@ -5,4 +5,4 @@
 Замена симоволов кириллицы символами латиницы
 
 # Скриншот
-![Alt text](/screenshots/1.png?raw=true "Интерфейс программы")
+![Интерфейс программы](https://github.com/ivekarp/anticensore/blob/main/screenshots/1.PNG)
